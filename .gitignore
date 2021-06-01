@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/node_modules
+/build
+=======
+node_modules
+build
+>>>>>>> 976ebe8cdb809fbd6e87d1b9462e60514e7825f8
+npm-debug.log
+.vscode
+.env
+.DS_Store
